@@ -1,2 +1,0 @@
-Programa inicial.
-Cambio realizado en rama1.
